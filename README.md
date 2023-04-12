@@ -1,4 +1,10 @@
-### Hi there 👋
+
+- Typescript, Node JS, NestJS, Prisma https://github.com/mejiaej/planets
+- Typescript, Node JS, GraphQL - https://github.com/mejiaej/apollo-tsed
+- Typescript, Node JS, MongoDB - https://github.com/mejiaej/csv-processor
+- React, TypeScript - https://github.com/mejiaej/countries-app
+- React, Redux, TypeScript - https://github.com/mejiaej/news-feed-ts
+- Java, TypeScript, React - https://github.com/mejiaej/mines
 
 <!--
 **mejiaej/mejiaej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
