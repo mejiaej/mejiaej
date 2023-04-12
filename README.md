@@ -6,6 +6,12 @@
 - React, Redux, TypeScript - https://github.com/mejiaej/news-feed-ts
 - Java, TypeScript, React - https://github.com/mejiaej/mines
 
+## Open source contributions:
+- Fix for AWS S3 file upload (https://github.com/transloadit/uppy/pull/2466)
+- Helped DevOps by fixing EFS scenario (https://github.com/transloadit/uppy/pull/2683)
+- Fix aui bug (https://github.com/transloadit/uppy/pull/2535)
+- Added a feature to Azure data studio (https://github.com/microsoft/azuredatastudio/pull/14894)
+
 <!--
 **mejiaej/mejiaej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
