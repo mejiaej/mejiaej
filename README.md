@@ -5,6 +5,7 @@
 - React, TypeScript - https://github.com/mejiaej/countries-app
 - React, Redux, TypeScript - https://github.com/mejiaej/news-feed-ts
 - Java, TypeScript, React - https://github.com/mejiaej/mines
+- React, Styled components(Mobile and Desktop styles) - https://github.com/mejiaej/comic-search
 
 ## Open source contributions:
 - Fix for AWS S3 file upload (https://github.com/transloadit/uppy/pull/2466)
