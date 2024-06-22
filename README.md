@@ -10,7 +10,7 @@
 ## Open source contributions:
 - Fix for AWS S3 file upload (https://github.com/transloadit/uppy/pull/2466)
 - Helped DevOps by fixing EFS scenario (https://github.com/transloadit/uppy/pull/2683)
-- Fix aui bug (https://github.com/transloadit/uppy/pull/2535)
+- Fixed a ui bug (https://github.com/transloadit/uppy/pull/2535)
 - Added a feature to Azure data studio (https://github.com/microsoft/azuredatastudio/pull/14894)
 - Added missing types to Prisma (https://github.com/prisma/prisma/pull/17471)
 
